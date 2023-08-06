@@ -7,7 +7,7 @@ In reading the recommended blog on [Growth Mindset](https://www.atlassian.com/bl
 
 A Growth Mindset involves taking ownership and responsibility for ones action in response to any obstacle outside of our control. While I may not know everything and may not always be in the best situations, it is within my control alone to take action that will lead to the growth and understanding that I seek. It consists of a collection of small acts and behaviors that one undergoes in an attempt to experience understanding.
 
-**Tips to remember:**
+#### Tips to remember:
  - Develop and maintain a daily routine
  - Healthy sleep schedule is crucial
  - Spend time with family and friends
