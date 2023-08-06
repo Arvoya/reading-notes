@@ -7,7 +7,7 @@
    1. How many do you need to create the largest heading? 1
    2. How many do you need to create the smallest heading? 6
 4. When making text bold or italicized for emphasis, it is best practice to use which symbol? \*\*Bold** ---> **Bold** \| \*italicized* ---> *italicized*
-5. How do you create a link with Markdown? \[Link to music]\(https://www.youtube.com/watch?v=V1bFr2SWP1I) ---> [Link to music](https://www.youtube.com/watch?v=V1bFr2SWP1I))
+5. How do you create a link with Markdown? \[Link to music]\(https://www.youtube.com/watch?v=V1bFr2SWP1I) ---> [Link to music](https://www.youtube.com/watch?v=V1bFr2SWP1I)
 6. What are the three symbols you can use to create an unordered (bulleted) list with Markdown? - , + , *
 
 ### Notes:
