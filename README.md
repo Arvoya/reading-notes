@@ -13,3 +13,5 @@ A Growth Mindset involves taking ownership and responsibility for ones action in
  - Spend time with family and friends
  - Take breaks
  - Eat healthy meals
+
+[Lab1b](Lab1b.md)
