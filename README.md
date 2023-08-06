@@ -14,4 +14,5 @@ A Growth Mindset involves taking ownership and responsibility for ones action in
  - Take breaks
  - Eat healthy meals
 
-[Lab1b](Lab1b.md)
+### Learning Markdown 
+[Lab 1b](Lab1b.md)
