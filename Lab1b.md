@@ -3,13 +3,13 @@
 ### Questions & Answers: 
 1. What is Markdown?
 2. Why do we use Markdown?
-3. What symbol will create a heading in Markdown? **#**
+3. What symbol will create a heading in Markdown? #
    1. How many do you need to create the largest heading? **1**
    2. How many do you need to create the smallest heading? **6**
 5. How many do you need to create the largest heading?
 6. How many do you need to create the smallest heading?
 7. When making text bold or italicized for emphasis, it is best practice to use which symbol?
-8. How do you create a link with Markdown? 
-9. What are the three symbols you can use to create an unordered (bulleted) list with Markdown? 
+8. How do you create a link with Markdown? **\[name](link)** --> [name](link)
+9. What are the three symbols you can use to create an unordered (bulleted) list with Markdown? **-**, **+**, *
 
 ### Notes: 
