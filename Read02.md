@@ -1,6 +1,6 @@
 # The Coder's Computer
 
-Reading assignmnet 'Read02'
+Reading assignment 'Read02'
 
 ## Questions & Answers
 
