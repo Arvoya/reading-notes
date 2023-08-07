@@ -22,10 +22,10 @@ A growth mindset involves taking ownership and responsibility for ones action in
 
 An overview of what Markdown is, how it is used, and its history.
 
-[Markdown](Lab1b.md)
+[Markdown](/102/Class1/Lab1b.md)
 
 ### The Coder's Computer
 
 An overview of the terminal and common commands to aid in navigation. 
 
-[The Coder's Computer](Read02.md)
+[The Coder's Computer](/102/Class2/Read02.md)
