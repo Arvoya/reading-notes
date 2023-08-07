@@ -4,19 +4,19 @@ Reading assignmnet 'Read02'
 
 ## Questions & Answers
 
-1. What are four important features to look for in a text editor?
-2. What do the following commands do? 
-    - `pwd`
-    - `ls`
-    - `cd`
-    - `mkdir`
-    - `touch`
+1. What are four important features to look for in a text editor? Top four features are: code completion, syntax highlighting, variety of themes, and offers wide selection of extensions.
+2. What do the following commands do.
+    - `pwd` - prints the current directory you are in.
+    - `ls` - creates a list of the files or directories relative to current directory
+    - `cd` - changes location of current directory
+    - `mkdir` - makes a new directory
+    - `touch` - makes a new file
 3. Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
-    - `cd projects`
-    - `mkdir new-project`
-    - `touch new-project/newfile.md`
-    - `cd ..`
-    - `ls projects/new-project`
+    - `cd projects` - changing to a directory known as 'projects'.
+    - `mkdir new-project` - creates a new directory names 'new-project'
+    - `touch new-project/newfile.md` - creates a file titled 'newfile.md' within the directory 'new-project'
+    - `cd ..` - goes back to the parent directory
+    - `ls projects/new-project` - creates a list of the files or directories found within the directory 'new-project' that is the child of the directory titled 'projects'.
 
 ## Notes
 
