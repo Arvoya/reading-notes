@@ -4,20 +4,10 @@ My public journal for Code Fellows
 
 ## About Me
 
+Hello! I'm Isai Chaidez, residing in the city of Seattle. Currently, I'm an ambitious student at Code Fellows, fully immersed in the world of coding and development. This website is dedicated to all things related to my journey throughout this course. From assignments and projects to my personal insights as I engage in continuous reading, writing, and learning, you'll find it all right here.
+
 ## Content
 
-### [Module 102](/102/)
+### [Module 102](/102/README.md)
 
-#### Learning Markdown
-
-An overview of what Markdown is, how it is used, and its history.
-
-[Markdown](/102/Class1/Lab1b.md)
-
-#### The Coder's Computer
-
-An overview of the terminal and common commands to aid in navigation. 
-
-[The Coder's Computer](/102/Class2/Read02.md)
-
-### [Module 201](/201/)
+### [Module 201](/201/README.md)
