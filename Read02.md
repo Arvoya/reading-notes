@@ -89,7 +89,7 @@ The file system is a hierarchical structure.
 
 - The top of the structure is known as the **root** directory. 
 - The root is denoted by a single slash (/)
-- `~` - shorcut for home directory
+- `~` - shortcut for home directory
 - `.` - reference to your current directory
 - `..` - reference to the parent directory
 - `cd` \[location] - a command to change location to specified target
@@ -118,7 +118,7 @@ The file system is a hierarchical structure.
 
 - It is possible to have spaces in names of files, but the terminal will need additional help. 
   - `cd Holiday Photos` could result in an error saying `Holiday: No such file or directory`
-  - `cd 'Holiday Photos'` would fix the error by using single or doublt quetoes. 
+  - `cd 'Holiday Photos'` would fix the error by using single or double quotes. 
   - `cd Holiday\ Photos` would also work because the backslash key (\\) nullifies or 'escapes' the special meaning of the next character. In this case the space.
 
 #### Hidden Files
