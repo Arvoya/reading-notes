@@ -4,4 +4,4 @@ Throughout my time at Code Fellows, you will read about my thoughts, feelings, a
 
 ## Content
 
-### [Day 1](/Journal/Day01/Day01.md)
+### [Day 1](https://arvoya.github.io/reading-notes/Journal/Day01/Day01)
