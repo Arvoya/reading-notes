@@ -1,5 +1,7 @@
 # All About Git
 
+Reading assignment 'Read03'
+
 ## Questions & Answers
 
 1. What is Version Control? A system that allows you to revisit various versions of a file by recording the changes made rather than creating an entirely separate file. It grants the ability to see which individuals made what changes, allowing mistakes to be taken care of easily.
@@ -7,7 +9,6 @@
 3. What is the command to track and stage files? `git add [filename]` for individual file/s or `git add .` for to track and stage all files.
 4. What is the command to take a snapshot of your changed files? `git commit -m ""` will take the snapshot and you can add some text to explain your reasoning to the changes made.
 5. What is the command to send your changed files to Github? `git push origin main` This command pushes changes from the local “master” branch to the remote repository named “origin".
-
 
 ## Notes
 
