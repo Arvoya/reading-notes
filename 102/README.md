@@ -28,7 +28,7 @@ A growth mindset involves taking ownership and responsibility for ones action in
 
 ### Class03
 
-- [Unknown](/Class03/Unknown.md)
+- [Revisions & the Cloud](/Class03/Lab03.md)
 
 ### Class04
 

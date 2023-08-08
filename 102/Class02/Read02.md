@@ -26,7 +26,7 @@ Here are the notes I've taken while reading the following blogs:
 [The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
 \| [Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php) \| [About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
 
-### Choosing a Test Editor
+### Choosing a Text Editor
 
 #### Picking the best
 
@@ -67,7 +67,7 @@ Here are the notes I've taken while reading the following blogs:
 
 - Shells are part of the operating system that governs how the terminal behaves.
 - When I run the command
-`echo $SHELL` it shows up as 'zsh' so that is the shell I'm using
+`echo $SHELL` it shows up as 'zsh' so that is the shell I'm using.
 
 ### Basic Navigation
 
@@ -116,7 +116,7 @@ The file system is a hierarchical structure.
 
 #### Spaces in names
 
-- It is possible to have spaces in names of files, but the terminal will need additional help. 
+- It is possible to have spaces within the names of files, but the terminal will need additional help. 
   - `cd Holiday Photos` could result in an error saying `Holiday: No such file or directory`
   - `cd 'Holiday Photos'` would fix the error by using single or double quotes. 
   - `cd Holiday\ Photos` would also work because the backslash key (\\) nullifies or 'escapes' the special meaning of the next character. In this case the space.
