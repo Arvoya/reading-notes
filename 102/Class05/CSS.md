@@ -1,4 +1,4 @@
-# All About Git
+# CSS
 
 Reading assignment 'Read05'
 
@@ -137,7 +137,7 @@ h1 {
 }
 ```
 
-## Internal CSS
+### Internal CSS
 
 An internal style sheet is the act of writting CSS syntax within the same HTML document.
 
@@ -169,7 +169,7 @@ To do so the internal style is defined inside of the HTML `<style>` element. Thi
 </html>
 ```
 
-## Inline CSS
+### Inline CSS
 
 An inline style is used to style a single element within an HTML file.
 
@@ -189,7 +189,7 @@ An inline style is used to style a single element within an HTML file.
 
 > **Tip:** An inline style loses many of the advantages of a style sheet (by mixing content with presentation). Use this method sparingly.
 
-## Cascading Order
+### Cascading Order
 
 All the styles in a page will "cascade" into a new *virtual* style sheet by the following these rules in order.
 
