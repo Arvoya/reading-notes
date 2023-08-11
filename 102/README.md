@@ -48,4 +48,4 @@ A growth mindset involves taking ownership and responsibility for ones action in
 
 ### Class08
 
-- [Unknown](/Class08/Unknown.md)
+- [Operators & Loops](/Class08/Operators-Loops.md)
