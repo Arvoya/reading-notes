@@ -45,7 +45,7 @@ A growth mindset involves taking ownership and responsibility for ones action in
 
 ### Class07
 
-- [Unknown](/Class07/Programming-JS.md)
+- [Programming-JS](/Class07/Programming-JS.md)
 
 ### Class08
 
