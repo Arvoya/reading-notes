@@ -4,10 +4,6 @@ Throughout my time at Code Fellows, you will read about my thoughts, feelings, a
 
 ## Content
 
-### [Day 1](Day01/Day01.md)
+### [Module 102](Module102/README.md)
 
-### [Day 2](Day02/Day02.md)
-
-### [Day 3](Day03/Day03.md)
-
-### [Day 4](Day04/Day04.md)
+### [Module 201](Module201/README.md)
