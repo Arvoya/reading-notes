@@ -10,7 +10,7 @@ My public reading notes for 'Foundations of Software Development'
 
 ### Class02
 
-- [Unknown](/Class02/Unknown.md)
+- [Class02](/Class02/class02.md)
 
 ### Class03
 

@@ -1,0 +1,1 @@
+{"rule":"EN_A_VS_AN","sentence":"^\\QWhat is the use of an \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q?\\E$"}

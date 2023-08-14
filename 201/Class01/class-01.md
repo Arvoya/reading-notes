@@ -1,6 +1,6 @@
 # Class 1 Reading assignment
 
-Reading assignmnet ‘Read01’
+Reading assignment ‘Read01’
 
 ## Questions & Answers
 

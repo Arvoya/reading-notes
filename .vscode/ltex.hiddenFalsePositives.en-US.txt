@@ -1,0 +1,1 @@
+{"rule":"EN_UNPAIRED_BRACKETS","sentence":"^\\QLooks like we are in'+ question3 + \"and the time is:\" + question4); </script> </body> </html>\\E$"}
