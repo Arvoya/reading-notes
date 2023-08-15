@@ -1,6 +1,6 @@
 # Module 201
 
-My public reading notes for 'Foundations of Software Development'
+My public reading notes for 'Foundations of Software Development
 
 ## Content
 
@@ -14,7 +14,7 @@ My public reading notes for 'Foundations of Software Development'
 
 ### Class03
 
-- [Unknown](/Class03/Unknown.md)
+- [Class03](/Class03/class-03.md)
 
 ### Class04
 

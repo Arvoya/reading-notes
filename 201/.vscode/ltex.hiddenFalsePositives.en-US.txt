@@ -1,0 +1,1 @@
+{"rule":"KIND_OF_A","sentence":"^\\QFor instance, the outer display type of a block-level box affects its vertical arrangement and the space it occupies within the layout.\\E$"}
