@@ -1,5 +1,7 @@
 # Content
 
+My journal entries while working through Code Fellows Module 102.
+
 ## [Day 1](Day01/Day01.md)
 
 ## [Day 2](Day02/Day02.md)
