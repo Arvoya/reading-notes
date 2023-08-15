@@ -1,6 +1,6 @@
-# Class 2 Reading assignment
+# Class 3 Reading assignment
 
-Reading assignment 'Read 02'
+Reading assignment 'Read 03'
 
 ## Questions & Answers
 
