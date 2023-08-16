@@ -1,6 +1,6 @@
 # Class 4 Reading assignment
 
-Reading assignment 'Read 03'
+Reading assignment 'Read 04'
 
 ## Questions & Answers
 
