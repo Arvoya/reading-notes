@@ -1,0 +1,1 @@
+{"rule":"EN_UNPAIRED_BRACKETS","sentence":"^\\QLooking forward to tomorrow's work :\\)\\E$"}
