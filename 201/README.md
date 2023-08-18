@@ -26,7 +26,7 @@ My public reading notes for 'Foundations of Software Development
 
 ### Class06
 
-- [Unknown](/Class06/Unknown.md)
+- [Class06](/Class06/class06.md)
 
 ### Class07
 
