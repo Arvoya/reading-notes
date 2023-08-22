@@ -19,7 +19,7 @@ Reading assignment 'Read 03'
 7. What `data types` can you store inside an `Array`? All types!
 8. Is the `people` array a valid JavaScript array? If so, how can I access the values stored? If not, why?
 It is possible to access the values stored by using a pair of brackets.
-example: 
+
     * `people[0][1]` would give you the number 32.
 
     ``` js
