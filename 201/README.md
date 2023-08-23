@@ -34,7 +34,7 @@ My public reading notes for 'Foundations of Software Development
 
 ### Class08
 
-- [Unknown](/Class08/Unknown.md)
+- [Class08](/Class08/class08.md)
 
 ### Class09
 
