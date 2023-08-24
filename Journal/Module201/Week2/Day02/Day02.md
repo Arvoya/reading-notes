@@ -1,4 +1,4 @@
-# Journal Day01
+# Journal Day02
 
 8.22.2023
 
