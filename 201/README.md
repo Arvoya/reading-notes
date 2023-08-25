@@ -6,39 +6,39 @@ My public reading notes for 'Foundations of Software Development
 
 ### Class01
 
-- [Class01](/Class01/class-01.md)
+- [Website Process & Design \| HTML Basics & Semantics \| JS Basics](/Class01/class-01.md)
 
 ### Class02
 
-- [Class02](/Class02/class02.md)
+- [HTML Elements \| CSS Structure](/Class02/class02.md)
 
 ### Class03
 
-- [Class03](/Class03/class-03.md)
+- [HTML Lists \| CSS Box Model \| JS Arrays & Loops](/Class03/class-03.md)
 
 ### Class04
 
-- [Class04](/Class04/class04.md)
+- [HTML links \| CSS block-level \| JS Functions](/Class04/class04.md)
 
 ### Class 05
 
-- [Class05](/Class05/class05.md)
+- [Image Types \| Font](/Class05/class05.md)
 
 ### Class06
 
-- [Class06](/Class06/class06.md)
+- [JS Objects \| Intro to DOM](/Class06/class06.md)
 
 ### Class07
 
-- [Class07](/Class07/class07.md)
+- [HTML Tables \| DOM cont. \| Constructors & Prototypes](/Class07/class07.md)
 
 ### Class08
 
-- [Class08](/Class08/class08.md)
+- [Flexbox](/Class08/class08.md)
 
 ### Class09
 
-- [Unknown](/Class09/Unknown.md)
+- [Web Forms & Event Listener](/Class09/class09.md)
 
 ### Class10
 

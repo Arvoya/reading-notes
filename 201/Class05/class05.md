@@ -38,7 +38,7 @@ Here are the notes I’ve taken while reading the following blogs:
 
 ## CSS Color
 
-`color` - this css property defines the foreground color of the elements content
+`color` - this CSS property defines the foreground color of the elements content
 `background-color` - defines the elements background color.
 
 ### Fonts
