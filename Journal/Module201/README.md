@@ -17,3 +17,5 @@ My journal entries while working through Code Fellows Module 201.
 ### [Day 2](Week2/Day02/Day02.md)
 
 ### [Day 3](Week2/Day03/Day03.md)
+
+### [Day 4](Week2/Day04/Day04.md)
