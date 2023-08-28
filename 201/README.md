@@ -42,7 +42,7 @@ My public reading notes for 'Foundations of Software Development
 
 ### Class10
 
-- [Unknown](/Class10/Unknown.md)
+- [Debugging](/Class10/class10.md)
 
 ### Class11
 
