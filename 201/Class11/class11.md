@@ -60,6 +60,6 @@ Responsive images within a website can adjust and adapt to the screen size of th
 Another way to image responsive is necessary is to help with bandwidth, specifically for mobile users who don't need to download such a large image compared to a desktop or laptop with a giant monitor.
 
 * `srcset` - an attribute that can provide several source images and sizes to provide the browser options
- * `sizes` - an attribute that can provide hints to help the browser pick from the `srcset`
+* `sizes` - an attribute that can provide hints to help the browser pick from the `srcset`
 
 These attributes are more helpful because these changes happen before the CSS or JS files are run.
