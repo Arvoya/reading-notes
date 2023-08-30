@@ -50,7 +50,7 @@ My public reading notes for 'Foundations of Software Development
 
 ### Class12
 
-- [Unknown](/Class12/class12.md)
+- [JS Canvas \| Chart.js](/Class12/class12.md)
 
 ### Class13
 
