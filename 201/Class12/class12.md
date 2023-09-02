@@ -59,4 +59,3 @@ Types of charts:
 7. Polar Area Chart
 8. Radar Chart
 9. Scatter Chart
-
