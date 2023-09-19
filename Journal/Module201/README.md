@@ -19,3 +19,9 @@ My journal entries while working through Code Fellows Module 201.
 ### [Day 3](Week2/Day03/Day03.md)
 
 ### [Day 4](Week2/Day04/Day04.md)
+
+**Took a Vacation during Week 3 & Week 4**
+
+## Week 4
+
+### [Day 5](Week4/Day05/day05.md)
