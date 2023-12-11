@@ -6,4 +6,4 @@ My public reading notes for 'Intermediate Software Development'
 
 ### Class01
 
-- [Website Process & Design \| HTML Basics & Semantics \| JS Basics](./class01/class01.md);
+- [Introduction to React and Components](./class01/class01.md)
