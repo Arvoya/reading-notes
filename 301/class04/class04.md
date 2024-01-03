@@ -186,5 +186,5 @@ Examples:
 - Nested:
 
   ``` jsx
-  let message = age > 18 ? (student ? 'Student over 18' : 'Adult') : 'Underage';
+  let canDrink = age > 21 ? (student ? 'Student over 21' : 'Adult') : 'Underage';
   ```
