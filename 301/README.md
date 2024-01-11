@@ -13,3 +13,5 @@ My public reading notes for 'Intermediate Software Development'
 - [React Forms & Ternary Operator](./class04/class04.md)
 
 - [React & Higher Functions](./class05/class05.md)
+
+- [Understanding REST](./class06/class06.md)
