@@ -15,3 +15,5 @@ My public reading notes for 'Intermediate Software Development'
 - [React & Higher Functions](./class05/class05.md)
 
 - [Understanding REST](./class06/class06.md)
+
+- [NODE.JS](./class07/class07.md)
