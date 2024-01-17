@@ -33,7 +33,7 @@ Reading assignment for Class 07
 
 ### The V8 Engine
 
-This is the open-source JavaScript engine that runs in Google Chrome and other Chromium-based web browsers. It compiles JavaScript directly to native machine code, enabling high performance and efficient execution.
+This is the open-source JavaScript engine that runs in Google Chrome and other Chromium-baed web browers. It compiles JavaScript directly to native machine code, enabling high performance and efficient execution.
 
 It's important to note that when we say "Node is built on the V8 engine", it does **not** mean that Node programs are executed in a browser. Rather, the creator of Node (Ryan Dahl) enhanced the V8 engine to run JavaScript on computers, thus creating a runtime environment.
 
@@ -48,7 +48,9 @@ There are a couple of options for installing Node.js:
 
 1. Official Node Download Page: Go to Node.js Download to download the Node binaries for your system.
 
-2. Version Manager: Alternatively, use a version manager, which allows you to install multiple versions of Node and switch between them. This is beneficial for handling different projects that may require specific Node versions, avoiding conflicts and dependency issues.
+2. Version Manager: Alternatively, use a version manager, which allows you to install multiple versions of Node and
+   switch between them. This is beneficial for handling different projects that may require specific Node versions,
+   avoiding conflicts and dependency issues.
 
 **Testing Your Installation:**
 
