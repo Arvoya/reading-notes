@@ -17,3 +17,5 @@ My public reading notes for 'Intermediate Software Development'
 - [Understanding REST](./class06/class06.md)
 
 - [NODE.JS](./class07/class07.md)
+
+- [APIs Best Practices](./class08/class08.md)
