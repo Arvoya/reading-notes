@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c12f8bb7-3b50-4fb8-8202-525dd1267e1a" name="Changes" comment="">
+    <list default="true" id="41feb6d1-2f61-464b-b186-eb6ed97cc84a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/301/class09/class09.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/301/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/301/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,90 +21,58 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 3
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
 }</component>
-  <component name="ProjectId" id="2b3hJZLhUiYGQNRME5bXqLaU5e4" />
+  <component name="ProjectId" id="2bLL3zypSJE7Lx4zt7RrLvmGjIV" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+    <option name="sortKey" value="BY_TYPE" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;Notification.DisplayName-DoNotAsk-Vcs Important Messages&quot;: &quot;VCS important messages&quot;,
-    &quot;Notification.DoNotAsk-Vcs Important Messages&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;writing&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/isaic/CodeFellows/reading-notes&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.appearance&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="reading-notes" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="reading-notes" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/301/class09" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c12f8bb7-3b50-4fb8-8202-525dd1267e1a" name="Changes" comment="" />
-      <created>1705449598956</created>
+      <changelist id="41feb6d1-2f61-464b-b186-eb6ed97cc84a" name="Changes" comment="" />
+      <created>1705989217184</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1705449598956</updated>
-      <workItem from="1705449600134" duration="736000" />
-      <workItem from="1705450345173" duration="86000" />
-      <workItem from="1705450593415" duration="639000" />
-      <workItem from="1705452841093" duration="1557000" />
-      <workItem from="1705454445426" duration="342000" />
-      <workItem from="1705519670238" duration="943000" />
-      <workItem from="1705520622022" duration="581000" />
-      <workItem from="1705521248368" duration="344000" />
-      <workItem from="1705521608007" duration="270000" />
-      <workItem from="1705521923372" duration="424000" />
-      <workItem from="1705540194286" duration="1647000" />
-      <workItem from="1705594794854" duration="1985000" />
-      <workItem from="1705597295107" duration="50000" />
-      <workItem from="1705597354463" duration="4381000" />
-      <workItem from="1705605865509" duration="168000" />
+      <updated>1705989217184</updated>
+      <workItem from="1705989218444" duration="15000" />
+      <workItem from="1705989245082" duration="1807000" />
+      <workItem from="1705991067473" duration="3372000" />
+      <workItem from="1706035502575" duration="488000" />
+      <workItem from="1706036002860" duration="4799000" />
+      <workItem from="1706138187496" duration="109000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

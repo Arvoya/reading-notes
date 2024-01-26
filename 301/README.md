@@ -19,3 +19,5 @@ My public reading notes for 'Intermediate Software Development'
 - [NODE.JS](./class07/class07.md)
 
 - [APIs Best Practices](./class08/class08.md)
+
+- [Functional Programming & Node.js Video](./class09/class09.md)
