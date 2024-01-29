@@ -21,3 +21,5 @@ My public reading notes for 'Intermediate Software Development'
 - [APIs Best Practices](./class08/class08.md)
 
 - [Functional Programming & Node.js Video](./class09/class09.md)
+
+- [In Memory Storage](./class10/class10.md)
