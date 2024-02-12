@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "8a019dc4c6207563",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a7d7c944d19dc77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "352464e2e6c8ad01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "301/class10/class10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ecfef87fd2f842d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "db858caa32732dc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e46d52dc7fcee85",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3b754bc08cfb2b39",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a39bb4bf88036c1c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "36414348157582a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "613e7fe1c02a60a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b97a3c161e5e112",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "301/class10/class10.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "48dad06dc671f15c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "301/class10/class10.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "46eea48611123546",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5f4befe165ac3155",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "301/class10/class10.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "352464e2e6c8ad01",
+  "lastOpenFiles": [
+    "301/class10/Callstack.png",
+    "301/class09/class09.md",
+    "301/class08/class08.md",
+    "301/class07/class07.md",
+    "301/class06/class06.md",
+    "301/class05/class05.md",
+    "301/class04/class04.md",
+    "301/class03/class03.md",
+    "301/class02/class02.md",
+    "301/class01/class01.md",
+    "301/README.md",
+    "201/README.md",
+    "201/notes-template.md",
+    "201/Class14/PsychologicalSafety.md",
+    "201/Class14/class14.md",
+    "201/Class13/class13.md",
+    "201/Class12/class12.md",
+    "201/Class11/class11.md",
+    "201/Class10/class10.md",
+    "201/Class09/class09.md",
+    "201/Class08/class08.md",
+    "201/Class07/class07.md",
+    "201/Class06/class06.md",
+    "201/Class05/class05.md",
+    "201/Class04/class04.md",
+    "201/Class03/class-03.md"
+  ]
+}
