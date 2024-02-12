@@ -1,4 +1,4 @@
-[[102/README|Module 102]]
+[Module 102](../README)
 # Programming JS
 
 Reading assignmnet 'Read07'

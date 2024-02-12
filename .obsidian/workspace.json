@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "301/class10/class10.md",
-                "mode": "source",
+                "file": "102/README.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "301/class10/class10.md",
+                "file": "102/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "301/class10/class10.md",
+                "file": "102/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "301/class10/class10.md"
+                "file": "102/README.md"
               }
             }
           }
@@ -148,6 +148,20 @@
   },
   "active": "352464e2e6c8ad01",
   "lastOpenFiles": [
+    "Class01/Lab1b.md",
+    "102/README.md",
+    "102/Class03/Read03.md",
+    "102/Class02/Read02.md",
+    "README.md",
+    "102/Class07/Programming-JS.md",
+    "102/Class06/JavaScript.md",
+    "102/Class05/CSS.md",
+    "102/Class04/HTML.md",
+    "path/to/102.md",
+    "path/to",
+    "path",
+    "301/README.md",
+    "301/class10/class10.md",
     "301/class10/Callstack.png",
     "301/class09/class09.md",
     "301/class08/class08.md",
@@ -158,21 +172,10 @@
     "301/class03/class03.md",
     "301/class02/class02.md",
     "301/class01/class01.md",
-    "301/README.md",
     "201/README.md",
     "201/notes-template.md",
     "201/Class14/PsychologicalSafety.md",
     "201/Class14/class14.md",
-    "201/Class13/class13.md",
-    "201/Class12/class12.md",
-    "201/Class11/class11.md",
-    "201/Class10/class10.md",
-    "201/Class09/class09.md",
-    "201/Class08/class08.md",
-    "201/Class07/class07.md",
-    "201/Class06/class06.md",
-    "201/Class05/class05.md",
-    "201/Class04/class04.md",
-    "201/Class03/class-03.md"
+    "201/Class13/class13.md"
   ]
 }
