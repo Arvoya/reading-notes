@@ -1,4 +1,4 @@
-[[README|Front Page]]
+[Front Page](../README)
 # Module 102
 
 My public reading notes for 'Intro to Software Development'
