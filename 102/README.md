@@ -21,7 +21,7 @@ A growth mindset involves taking ownership and responsibility for ones action in
 
 ### Class01
 
-- [Learning Markdown](/Class01/Lab1b.md)
+- [Learning Markdown](./Class01/Lab1b.md)
 
 ### Class02
 

@@ -1,4 +1,4 @@
-[Module 102](../README)
+[Module 102](../)
 # The Coder's Computer
 
 Reading assignment 'Read02'
@@ -9,7 +9,7 @@ Reading assignment 'Read02'
 2. What do the following commands do.
     - `pwd` - prints the current directory you are in.
     - `ls` - creates a list of the files or directories relative to current directory
-    - `cd` - changes location of current directory
+    - `cd` - changes ljjocation of current directory
     - `mkdir` - makes a new directory
     - `touch` - makes a new file
 3. Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line? (Arguments are extra instructions given to a command.)
