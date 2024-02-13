@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "36414348157582a2",
@@ -149,6 +148,7 @@
   },
   "active": "7438085c27f73c5a",
   "lastOpenFiles": [
+    "301/README.md",
     "301/class11/class11.md",
     "Untitled Kanban.md",
     "301/class10/class10.md",
@@ -156,7 +156,6 @@
     "Untitled.canvas",
     "2024-02-12.md",
     "Untitled.md",
-    "301/README.md",
     "301/class11",
     "301/class10/Callstack.png",
     "102/Class02/Read02.md",

@@ -24,3 +24,5 @@ My public reading notes for 'Intermediate Software Development'
 - [Functional Programming & Node.js Video](./class09/class09.md)
 
 - [In Memory Storage](./class10/class10.md)
+
+* [SQL vs NSQL](./class11/class11.md)
