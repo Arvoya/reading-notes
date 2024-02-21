@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "301/class11/class11.md",
-                "mode": "source",
+                "file": "301/class12/class12.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "301/class11/class11.md",
+                "file": "301/class12/class12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "301/class11/class11.md",
+                "file": "301/class12/class12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "301/class11/class11.md"
+                "file": "301/class12/class12.md"
               }
             }
           }
@@ -149,7 +149,9 @@
   "active": "7438085c27f73c5a",
   "lastOpenFiles": [
     "301/README.md",
+    "301/class12/class12.md",
     "301/class11/class11.md",
+    "301/class12",
     "Untitled Kanban.md",
     "301/class10/class10.md",
     "README.md",
@@ -179,7 +181,6 @@
     "301/class06/class06.md",
     "301/class05/class05.md",
     "301/class04/class04.md",
-    "301/class03/class03.md",
-    "301/class02/class02.md"
+    "301/class03/class03.md"
   ]
 }

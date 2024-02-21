@@ -26,3 +26,5 @@ My public reading notes for 'Intermediate Software Development'
 - [In Memory Storage](./class10/class10.md)
 
 * [SQL vs NSQL](./class11/class11.md)
+
+* [CRUD](./class12/class12.md)
