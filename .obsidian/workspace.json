@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2928c3122da2d738",
+        "id": "fbf796a768811c23",
         "type": "tabs",
         "children": [
           {
-            "id": "7438085c27f73c5a",
+            "id": "c3fea110ec45401d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "301/class12/class12.md",
-                "mode": "preview",
+                "file": "301/README.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "301/class12/class12.md",
+                "file": "301/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "301/class12/class12.md",
+                "file": "301/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "301/class12/class12.md"
+                "file": "301/README.md"
               }
             }
           }
@@ -146,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7438085c27f73c5a",
+  "active": "c3fea110ec45401d",
   "lastOpenFiles": [
-    "301/README.md",
+    "301/class13/class13.md",
     "301/class12/class12.md",
+    "301/class13",
+    "301/README.md",
     "301/class11/class11.md",
     "301/class12",
     "Untitled Kanban.md",
@@ -157,7 +159,6 @@
     "README.md",
     "Untitled.canvas",
     "2024-02-12.md",
-    "Untitled.md",
     "301/class11",
     "301/class10/Callstack.png",
     "102/Class02/Read02.md",
@@ -180,7 +181,6 @@
     "301/class07/class07.md",
     "301/class06/class06.md",
     "301/class05/class05.md",
-    "301/class04/class04.md",
-    "301/class03/class03.md"
+    "301/class04/class04.md"
   ]
 }
