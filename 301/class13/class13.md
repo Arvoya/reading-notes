@@ -1,5 +1,4 @@
 # More CRUD
-[Module 301](./301)
 
 Reading assignment for Class 13.
 
