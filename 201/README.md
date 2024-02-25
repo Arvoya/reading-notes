@@ -59,7 +59,7 @@ My public reading notes for 'Foundations of Software Development
 
 ### Class14
 
-- [CSS Transitions & Animations](Class14/class14.md)
+- [CSS Transitions & Animations](201/Class14/class14.md)
 - [Psychological Safety](Class14/PsychologicalSafety.md)
 
 ### Class15
