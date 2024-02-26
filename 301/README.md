@@ -32,3 +32,5 @@ My public reading notes for 'Intermediate Software Development'
 * [More CRUD](./class13/class13.md)
 
 * [Diversity & Inclusion in the Tech Industry](./class14/class14.md)
+
+* [Authentication](./class15/class15.md)

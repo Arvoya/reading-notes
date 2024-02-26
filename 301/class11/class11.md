@@ -1,5 +1,5 @@
 # Mongo DB and Mongoose
-[Module 301](./301)
+[Module301](../README.md)
 
 Reading assignment for Class 11.
 

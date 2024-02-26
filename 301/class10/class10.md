@@ -1,4 +1,4 @@
-[[301/README|Module 301]]
+[Module301](../README.md)
 # In Memory Storage (JS Call Stack & Error Messages)
 
 Reading assignment for Class 10

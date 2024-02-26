@@ -1,4 +1,4 @@
-[[301/README|Module 301]]
+[Module301](../README.md)
 # Introduction to React and Components
 
 Reading assignment for Class 01

@@ -1,5 +1,5 @@
 # CRUD
-[Module 301](./301)
+[Module301](../README.md)
 
 Reading assignment for Class 12.
 
