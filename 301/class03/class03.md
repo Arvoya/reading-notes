@@ -1,4 +1,4 @@
-[[301/README|Module 301]]
+[Module301](../README.md)
 # Passing Functions as Props
 
 Reading assignment for Class 03

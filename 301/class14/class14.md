@@ -1,4 +1,5 @@
 # Diversity & Inclusion in the Tech Industry
+[Module301](../README.md)
 
 Reading assignment for Class 14.
 

@@ -1,4 +1,4 @@
-[[301/README|Module 301]]
+[Module301](../README.md)
 # Functional Programming & Node.js Video 
 
 Reading assignment for Class 09

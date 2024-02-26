@@ -1,4 +1,4 @@
-[[301/README|Module 301]]
+[Module301](../README.md)
 # React Forms & Ternary Operator
 
 Reading assignment for Class 04

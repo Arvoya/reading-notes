@@ -1,4 +1,4 @@
-[[301/README|Module 301]]
+[Module301](../README.md)
 # Understanding REST
 
 Reading assignment for Class 06
