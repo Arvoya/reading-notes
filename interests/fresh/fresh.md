@@ -51,3 +51,61 @@ treated as having a wildcard suffix.
 | blog/[slug]/comments.ts   | /blog/:slug/comments | /blog/foo/comments        |
 | old/[...path].ts          | /old/:path*          | /old/foo, /old/bar/baz    |
 | docs/[[version]]/index.ts | /docs{/:version}?    | /docs, /docs/latest, /docs/canary |
+
+Advanced use-cases can require a more complex pattern be used for matching.
+
+``` ts
+import { RouteConfig } from "$fresh/server.ts";
+
+export const config: RouteConfig = {
+    routeOverride: "/x/:module@:version/:path*",,
+};
+
+// ...
+```
+
+### Route Groups
+
+A route group is a folder which has a name that is wrapped in parentheses. This
+enables grouping of related routes that may use a different `_layout` file for
+each group.
+
+``` bash
+└── routes
+    ├── (marketing)
+    │   ├── _layout.tsx  # only applies to about.tsx and career.tsx
+    │   ├── about.tsx
+    │   └── career.tsx
+    └── (info)
+        ├── _layout.tsx  # only applies to archive.tsx and contact.tsx
+        ├── archive.tsx
+        └── contact.tsx
+```
+
+## Routes
+
+There are 2 main parts to routes: `handler` and the `component`
+
+### Handler
+
+``` ts
+import { FreshContext, Handlers } from "$fresh/server.ts";
+
+export const handler: Handlers = {
+  GET(_req: Request, _ctx: FreshContext) {
+    return new Response("Hello World");
+  },
+};
+```
+
+To define a handler, one needs to export a `handler` function or object from the
+route module.
+
+If the handler is an object, each key in the object is the name of the HTTP
+method that the handler should be called for.
+
+Example:
+
+`GET` handler above is called for `GET` requests. If the handler were a
+function, it is called for all requests regardless of the method. If an HTTP
+method does not have a corresponding handler, a 405 HTTP error is returned.
