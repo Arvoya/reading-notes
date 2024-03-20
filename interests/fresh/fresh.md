@@ -86,7 +86,7 @@ each group.
 
 There are 2 main parts to routes: `handler` and the `component`
 
-### Handler
+### Handler route
 
 ``` ts
 import { FreshContext, Handlers } from "$fresh/server.ts";
@@ -108,4 +108,81 @@ Example:
 
 `GET` handler above is called for `GET` requests. If the handler were a
 function, it is called for all requests regardless of the method. If an HTTP
-method does not have a corresponding handler, a 405 HTTP error is returned.
+method does not have a corresponding handler, a 405 HTTP error is returned
+instead. If an HTTP method is not defined, a 501 HTTP error is returned.
+
+### Component route
+
+``` ts
+import { PageProps } from "$fresh/server.ts";
+
+export default function Page(props: PageProps) {
+  return <div>You are on the page '{props.url.href}'</div>;
+}
+```
+
+The component is the default export of the route module. It is the component
+that is rendered when the route is matched. If no handler is defined, a default
+handler is used that renders the component. You can override the default
+handler to modify how the component is rendered.
+
+### Mixed handler and component route
+
+``` ts
+import { HandlerContext, Handlers, PageProps } from "$fresh/server.ts";
+
+export const handler: Handlers = {
+    async GET(_req: Request, ctx: HandlerContext) {
+        const resp = await ctx.render();
+        resp.headers.set("X-Custom-Header", "Hello World");
+        return resp;
+    },
+};
+```
+
+A custom handler is used to add a custom header to the response after
+rendering the component.
+
+### Async route components
+
+``` ts
+interface Data {
+  foo: number;
+}
+
+export const handler: Handlers<Data> = {
+    async GET(req, ctx) {
+        const value = await loadFooValue();
+        return ctx.render({ foo: value });
+    },
+};
+
+export default function MyPage(props: PageProps<Data>) {
+    return <p>Foo is {props.data.foo}</p>;
+}
+```
+
+Here we have separate `handler` and `component` exports. The `handler` is
+responsible for fetching the data and the `component` is responsible for
+rendering the data. The `component` is passed the data as a prop. The `handler`
+can also be used to modify the response before it is sent to the client. The
+`handler` can also be used to handle errors. If an error is thrown in the
+`handler`, the error is caught and the `component` is not rendered.
+
+``` ts
+// Async route component
+export default async function MyPage(req: Request, ctx: RouteContext) {
+  const value = await loadFooValue();
+  return <p>foo is: {value}</p>;
+}
+```
+
+Here we have a single `async` function that is both the `handler` and the
+`component`. The `handler` is responsible for fetching the data and rendering
+the component. The `handler` can also be used to modify the response before it
+is sent to the client. The `handler` can also be used to handle errors. If an
+error is thrown in the `handler`, the error is caught and the `component` is not
+rendered.
+
+This is useful for simple routes that do not require a separate
+`handler` and `component`. Avoiding having to create the `Data` boilerplate.
