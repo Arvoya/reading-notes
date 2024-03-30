@@ -185,4 +185,4 @@ error is thrown in the `handler`, the error is caught and the `component` is not
 rendered.
 
 This is useful for simple routes that do not require a separate
-`handler` and `component`. Avoiding having to create the `Data` boilerplate.
+shandler` and `component`. Avoiding having to create the `Data` boilerplate.
