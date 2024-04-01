@@ -9,3 +9,5 @@ My public reading notes for 'Advanced Software Development'
 [Intro to SQL](./prep/SQL-intro.md)
 
 [Terminal Practice](./prep/terminal.md)
+
+[Node Ecosystem](./week01/class01.md)
