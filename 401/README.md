@@ -7,3 +7,5 @@ My public reading notes for 'Advanced Software Development'
 [Growth Mindset](./prep/growth-mindset.md)
 
 [Intro to SQL](./prep/SQL-intro.md)
+
+[Terminal Practice](./prep/terminal.md)
