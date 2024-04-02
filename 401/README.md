@@ -11,3 +11,7 @@ My public reading notes for 'Advanced Software Development'
 [Terminal Practice](./prep/terminal.md)
 
 [Node Ecosystem](./week01/class01.md)
+
+[Express, NPM, TDD, CI/CD](./week01/class02.md)
+
+[Express REST API](./week01/class03.md)
