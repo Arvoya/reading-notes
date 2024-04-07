@@ -15,3 +15,7 @@ My public reading notes for 'Advanced Software Development'
 [Express, NPM, TDD, CI/CD](./week01/class02.md)
 
 [Express REST API](./week01/class03.md)
+
+[Data Modeling](./week01/class04.md)
+
+[Big O Quiz](./week01/class05.md)
