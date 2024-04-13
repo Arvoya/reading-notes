@@ -3,12 +3,23 @@
 My public reading notes for 'Advanced Software Development'
 
 ## Table of Contents
+<!--toc:start-->
+- [Module 401](#module-401)
+  - [Prework](#prework)
+  - [Week 1](#week-1)
+<!--toc:end-->
+
+## Prework
 
 [Growth Mindset](./prep/growth-mindset.md)
 
 [Intro to SQL](./prep/SQL-intro.md)
 
 [Terminal Practice](./prep/terminal.md)
+
+[Data Structures and Algorithms](./prep/data-structures.md)
+
+## Week 1
 
 [Node Ecosystem](./week01/class01.md)
 
