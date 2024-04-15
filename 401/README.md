@@ -10,6 +10,7 @@ My public reading notes for 'Advanced Software Development'
   - [Prework](#prework)
   - [Week 1](#week-1)
   - [Week 2](#week-2)
+  - [Week 3](#week-3)
 <!--toc:end-->
 
 ## Prework
@@ -39,3 +40,7 @@ My public reading notes for 'Advanced Software Development'
 [Authentication](./week02/class06.md)
 
 [Bearer Authorization](./week02/class07.md)
+
+## Week 3
+
+[Event Driven Applications](./week03/class11.md)
