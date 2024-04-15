@@ -3,10 +3,13 @@
 My public reading notes for 'Advanced Software Development'
 
 ## Table of Contents
+
 <!--toc:start-->
 - [Module 401](#module-401)
+  - [Table of Contents](#table-of-contents)
   - [Prework](#prework)
   - [Week 1](#week-1)
+  - [Week 2](#week-2)
 <!--toc:end-->
 
 ## Prework
@@ -30,3 +33,9 @@ My public reading notes for 'Advanced Software Development'
 [Data Modeling](./week01/class04.md)
 
 [Big O Quiz](./week01/class05.md)
+
+## Week 2
+
+[Authentication](./week02/class06.md)
+
+[Bearer Authorization](./week02/class07.md)
