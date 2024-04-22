@@ -44,3 +44,5 @@ My public reading notes for 'Advanced Software Development'
 ## Week 3
 
 [Event Driven Applications](./week03/class11.md)
+
+[Socket.io](./week03/class12.md)
