@@ -46,3 +46,13 @@ My public reading notes for 'Advanced Software Development'
 [Event Driven Applications](./week03/class11.md)
 
 [Socket.io](./week03/class12.md)
+
+[Message Queues](./week03/class13.md)
+
+## Week 4
+
+[AWS: Cloud Servers](./week04/class16.md)
+
+## Week 6
+
+[Component Based UI](./week06/class26.md)
