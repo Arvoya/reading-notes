@@ -56,3 +56,5 @@ My public reading notes for 'Advanced Software Development'
 ## Week 6
 
 [Component Based UI](./week06/class26.md)
+
+[React Hooks](./week06/class27.md)
