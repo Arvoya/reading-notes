@@ -57,4 +57,6 @@ My public reading notes for 'Advanced Software Development'
 
 [Component Based UI](./week06/class26.md)
 
-[React Hooks](./week06/class27.md)
+[useState Hook](./week06/class27.md)
+
+[useEffect Hook](./week06/class28.md)
