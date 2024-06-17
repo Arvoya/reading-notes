@@ -41,6 +41,8 @@ My public reading notes for 'Advanced Software Development'
 
 [Bearer Authorization](./week02/class07.md)
 
+[Access Control (ACL)](./week02/class08.md)
+
 ## Week 3
 
 [Event Driven Applications](./week03/class11.md)
@@ -60,3 +62,9 @@ My public reading notes for 'Advanced Software Development'
 [useState Hook](./week06/class27.md)
 
 [useEffect Hook](./week06/class28.md)
+
+## Week 7
+
+## Week 8
+
+[Application State with Redux](./week08/class36.md)
