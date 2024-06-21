@@ -51,9 +51,17 @@ My public reading notes for 'Advanced Software Development'
 
 [Message Queues](./week03/class13.md)
 
+[Event Driven Architecture](./week03/class14.md)
+
 ## Week 4
 
 [AWS: Cloud Servers](./week04/class16.md)
+
+[AWS: S3 and Lambda](./week04/class17.md)
+
+[AWS: API, Dynamo and Lambda](./week04/class18.md)
+
+[AWS: Events](./week04/class19.md)
 
 ## Week 6
 
@@ -63,7 +71,15 @@ My public reading notes for 'Advanced Software Development'
 
 [useEffect Hook](./week06/class28.md)
 
+[Advanced State with Reducers](./week06/class29.md)
+
 ## Week 7
+
+[<Login/> and <Auth/>](./week07/class33.md)
+
+[API Integration](./week07/class34.md)
+
+[Hash Tables Quiz](./week07/hashtables.md)
 
 ## Week 8
 
